@@ -629,516 +629,544 @@ background-color: black;
 }
 /* ============================= end submit page ================================== */
 
+
 .flair {
     background: url(%%spritesheet%%) no-repeat -9999px;
     border: 0;
     padding: 0;
 }
 
+.flair-Anderson {
+    min-width: 24px;
+    height: 36px;
+    background-position: 0 0;
+    text-indent: 26px;
+}
+
 .flair-Angels {
     min-width: 20px;
     height: 21px;
-    background-position: 0 0;
+    background-position: 0 -36px;
     text-indent: 26px;
 }
 
 .flair-Astros {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -21px;
+    background-position: 0 -57px;
     text-indent: 26px;
 }
 
 .flair-AstrosB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -42px;
+    background-position: 0 -78px;
     text-indent: 26px;
 }
 
 .flair-Athletics {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -63px;
+    background-position: 0 -99px;
     text-indent: 26px;
 }
 
 .flair-AthleticsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -84px;
+    background-position: 0 -120px;
     text-indent: 26px;
 }
 
 .flair-BlueJays {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -105px;
+    background-position: 0 -141px;
+    text-indent: 26px;
+}
+
+.flair-Bradley {
+    min-width: 24px;
+    height: 36px;
+    background-position: 0 -162px;
     text-indent: 26px;
 }
 
 .flair-Braves {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -126px;
+    background-position: 0 -198px;
     text-indent: 26px;
 }
 
 .flair-BravesB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -147px;
+    background-position: 0 -219px;
     text-indent: 26px;
 }
 
 .flair-Brewers {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -168px;
+    background-position: 0 -240px;
     text-indent: 26px;
 }
 
 .flair-BrewersB {
     min-width: 20px;
     height: 22px;
-    background-position: 0 -189px;
+    background-position: 0 -261px;
     text-indent: 26px;
 }
 
 .flair-Cardinals {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -211px;
+    background-position: 0 -283px;
     text-indent: 26px;
 }
 
 .flair-CardinalsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -232px;
+    background-position: 0 -304px;
     text-indent: 26px;
 }
 
 .flair-Collmenter {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -253px;
+    background-position: 0 -325px;
     text-indent: 26px;
 }
 
 .flair-Corbin {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -289px;
+    background-position: 0 -361px;
     text-indent: 26px;
 }
 
 .flair-Cubs {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -325px;
+    background-position: 0 -397px;
     text-indent: 26px;
 }
 
 .flair-CubsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -346px;
+    background-position: 0 -418px;
     text-indent: 26px;
 }
 
 .flair-DB {
     min-width: 20px;
     height: 23px;
-    background-position: 0 -367px;
+    background-position: 0 -439px;
     text-indent: 26px;
 }
 
 .flair-Dodgers {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -390px;
+    background-position: 0 -462px;
     text-indent: 26px;
 }
 
 .flair-DodgersB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -411px;
+    background-position: 0 -483px;
     text-indent: 26px;
 }
 
 .flair-Expos {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -432px;
+    background-position: 0 -504px;
     text-indent: 26px;
 }
 
 .flair-Giants {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -453px;
+    background-position: 0 -525px;
     text-indent: 26px;
 }
 
 .flair-GiantsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -474px;
+    background-position: 0 -546px;
     text-indent: 26px;
 }
 
 .flair-Goldy {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -495px;
+    background-position: 0 -567px;
     text-indent: 26px;
 }
 
 .flair-Hill {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -531px;
+    background-position: 0 -603px;
     text-indent: 26px;
 }
 
 .flair-Hudson {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -567px;
+    background-position: 0 -639px;
+    text-indent: 26px;
+}
+
+.flair-Inciarte {
+    min-width: 24px;
+    height: 36px;
+    background-position: 0 -675px;
     text-indent: 26px;
 }
 
 .flair-Indians {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -603px;
+    background-position: 0 -711px;
     text-indent: 26px;
 }
 
 .flair-IndiansB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -624px;
+    background-position: 0 -732px;
     text-indent: 26px;
 }
 
 .flair-Lamb {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -645px;
+    background-position: 0 -753px;
     text-indent: 26px;
 }
 
 .flair-Mariners {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -681px;
+    background-position: 0 -789px;
     text-indent: 26px;
 }
 
 .flair-MarinersB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -702px;
+    background-position: 0 -810px;
     text-indent: 26px;
 }
 
 .flair-Marlins {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -723px;
+    background-position: 0 -831px;
     text-indent: 26px;
 }
 
 .flair-MarlinsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -744px;
+    background-position: 0 -852px;
     text-indent: 26px;
 }
 
 .flair-Mets {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -765px;
+    background-position: 0 -873px;
     text-indent: 26px;
 }
 
 .flair-MetsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -786px;
+    background-position: 0 -894px;
     text-indent: 26px;
 }
 
 .flair-Nationals {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -807px;
+    background-position: 0 -915px;
     text-indent: 26px;
 }
 
 .flair-NationalsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -828px;
+    background-position: 0 -936px;
     text-indent: 26px;
 }
 
 .flair-Orioles {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -849px;
+    background-position: 0 -957px;
     text-indent: 26px;
 }
 
 .flair-OriolesB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -870px;
+    background-position: 0 -978px;
     text-indent: 26px;
 }
 
 .flair-Owings {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -891px;
+    background-position: 0 -999px;
     text-indent: 26px;
 }
 
 .flair-Padres {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -927px;
+    background-position: 0 -1035px;
     text-indent: 26px;
 }
 
 .flair-PadresB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -948px;
+    background-position: 0 -1056px;
     text-indent: 26px;
 }
 
 .flair-PadresC {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -969px;
+    background-position: 0 -1077px;
+    text-indent: 26px;
+}
+
+.flair-Peralta {
+    min-width: 24px;
+    height: 36px;
+    background-position: 0 -1098px;
     text-indent: 26px;
 }
 
 .flair-Phillies {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -990px;
+    background-position: 0 -1134px;
     text-indent: 26px;
 }
 
 .flair-PhilliesB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1011px;
+    background-position: 0 -1155px;
     text-indent: 26px;
 }
 
 .flair-Pirates {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1032px;
+    background-position: 0 -1176px;
     text-indent: 26px;
 }
 
 .flair-Pollock {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1053px;
+    background-position: 0 -1197px;
     text-indent: 26px;
 }
 
 .flair-PurpleA {
     min-width: 20px;
     height: 23px;
-    background-position: 0 -1089px;
+    background-position: 0 -1233px;
     text-indent: 26px;
 }
 
 .flair-Rangers {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1112px;
+    background-position: 0 -1256px;
     text-indent: 26px;
 }
 
 .flair-RangersB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1133px;
+    background-position: 0 -1277px;
     text-indent: 26px;
 }
 
 .flair-Rays {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1154px;
+    background-position: 0 -1298px;
     text-indent: 26px;
 }
 
 .flair-RaysB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1175px;
+    background-position: 0 -1319px;
     text-indent: 26px;
 }
 
 .flair-RedA {
     min-width: 20px;
     height: 20px;
-    background-position: 0 -1196px;
+    background-position: 0 -1340px;
     text-indent: 26px;
 }
 
 .flair-RedSox {
     min-width: 20px;
     height: 20px;
-    background-position: 0 -1216px;
+    background-position: 0 -1360px;
     text-indent: 26px;
 }
 
 .flair-RedSoxB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1236px;
+    background-position: 0 -1380px;
     text-indent: 26px;
 }
 
 .flair-Reds {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1257px;
+    background-position: 0 -1401px;
     text-indent: 26px;
 }
 
 .flair-Rockies {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1278px;
+    background-position: 0 -1422px;
     text-indent: 26px;
 }
 
 .flair-Royals {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1299px;
+    background-position: 0 -1443px;
     text-indent: 26px;
 }
 
 .flair-RoyalsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1320px;
+    background-position: 0 -1464px;
     text-indent: 26px;
 }
 
 .flair-Snake {
     min-width: 20px;
     height: 23px;
-    background-position: 0 -1341px;
+    background-position: 0 -1485px;
     text-indent: 26px;
 }
 
 .flair-TheD {
     min-width: 20px;
     height: 23px;
-    background-position: 0 -1364px;
+    background-position: 0 -1508px;
     text-indent: 26px;
 }
 
 .flair-Tigers {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1387px;
+    background-position: 0 -1531px;
     text-indent: 26px;
 }
 
 .flair-TigersB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1408px;
+    background-position: 0 -1552px;
     text-indent: 26px;
 }
 
 .flair-Timmy {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1429px;
+    background-position: 0 -1573px;
     text-indent: 26px;
 }
 
 .flair-Tomas {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1465px;
+    background-position: 0 -1609px;
     text-indent: 26px;
 }
 
 .flair-Trumbo {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1501px;
+    background-position: 0 -1645px;
     text-indent: 26px;
 }
 
 .flair-Twins {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1537px;
+    background-position: 0 -1681px;
     text-indent: 26px;
 }
 
 .flair-TwinsB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1558px;
+    background-position: 0 -1702px;
     text-indent: 26px;
 }
 
 .flair-WhiteSox {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1579px;
+    background-position: 0 -1723px;
     text-indent: 26px;
 }
 
 .flair-Yankees {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1600px;
+    background-position: 0 -1744px;
     text-indent: 26px;
 }
 
 .flair-YankeesB {
     min-width: 20px;
     height: 21px;
-    background-position: 0 -1621px;
+    background-position: 0 -1765px;
     text-indent: 26px;
 }
 
 .flair-Ziegler {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1642px;
+    background-position: 0 -1786px;
     text-indent: 26px;
 }
 
 .flair-dRobot {
     min-width: 24px;
     height: 36px;
-    background-position: 0 -1678px;
+    background-position: 0 -1822px;
     text-indent: 26px;
 }
-
 /* ============================= begin flair ================================== */
 
 
